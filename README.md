@@ -27,7 +27,7 @@
 <img aling="center" alt="SQL_LITE" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </div></br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DinhoP12&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DinhoP12&layout=compact&theme=radical)
 
 ## CONTATO
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wandersonsouza12/)
