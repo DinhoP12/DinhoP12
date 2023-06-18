@@ -32,4 +32,4 @@
 ## **CONTATO**
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wandersonsouza12/)
 [![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dinhosouza12/)
-[![PORTIFOLIO](https://img.shields.io/website?label=PORTFOLIO&style=for-the-badge&url=https://wanderson-souza0.webnode.page)](https://wanderson-souza0.webnode.page)
+[![PORTIFOLIO](https://img.shields.io/website?label=PORTFOLIO&style=for-the-badge&url=https://wanderson-souza0.webnode.page/projetos/)](https://wanderson-souza0.webnode.page/projetos/)
